@@ -9,6 +9,5 @@ def fizzbuzz(num)
   return "Fizz"
 else 
   return nil
-  binding.pry
   end
 end
